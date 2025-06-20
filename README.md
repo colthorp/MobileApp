@@ -15,9 +15,9 @@ Expo itself took sometime to learn the tricks. The touch on my app wouldn't work
 Working on this project was frustrating as some parts I had a hard time understanding but also the perfect glimpse of just what an app can do! (and also the amount of work that goes into it). Just when I think I'm getting the hang of it, there's so much more you can do or learn. Starting to think it's impossible to know everything when it comes to code, but I'm trying! I think this assignment will help me with parts of my capstone, as well as give me some insight of the different options available 
 
 
-.ENV File
-EXPO_PUBLIC_MOVIE_API_KEY=
-EXPO_PUBLIC_APPWRITE_PROJECT_ID=
-EXPO_PUBLIC_APPWRITE_DATABASE_ID=6
-EXPO_PUBLIC_APPWRITE_COLLECTION_ID=
-EXPO_PUBLIC_APPWRITE_ENDPOINT=
+.ENV File:
+	EXPO_PUBLIC_MOVIE_API_KEY=
+	EXPO_PUBLIC_APPWRITE_PROJECT_ID=
+	EXPO_PUBLIC_APPWRITE_DATABASE_ID=6
+	EXPO_PUBLIC_APPWRITE_COLLECTION_ID=
+	EXPO_PUBLIC_APPWRITE_ENDPOINT=
