@@ -13,11 +13,3 @@ I used Webstorm instead of VS Code, so it was a bit of a learning curve, but wit
 Expo itself took sometime to learn the tricks. The touch on my app wouldn't work for the longest time and after combing through my code and extensive research, it turns out all you had to do was hit 'm' on the terminal to toggle the dev menu.
 
 Working on this project was frustrating as some parts I had a hard time understanding but also the perfect glimpse of just what an app can do! (and also the amount of work that goes into it). Just when I think I'm getting the hang of it, there's so much more you can do or learn. Starting to think it's impossible to know everything when it comes to code, but I'm trying! I think this assignment will help me with parts of my capstone, as well as give me some insight of the different options available 
-
-
-.ENV File: <br>
-EXPO_PUBLIC_MOVIE_API_KEY= <br>
-EXPO_PUBLIC_APPWRITE_PROJECT_ID= <br>
-EXPO_PUBLIC_APPWRITE_DATABASE_ID=6 <br>
-EXPO_PUBLIC_APPWRITE_COLLECTION_ID= <br>
-EXPO_PUBLIC_APPWRITE_ENDPOINT= <br>
